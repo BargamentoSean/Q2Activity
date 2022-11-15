@@ -1,0 +1,36 @@
+h1{
+	font-family: Tahoma;
+	color: turquoise;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	text-shadow: 2px 2px 2px gray;
+}
+p{
+	font-size: 30px;
+	text-align: justify;
+	text-indent: 25px;
+	letter-spacing: 2px;
+	color: white;
+}
+span{
+	font-variant: small-caps;
+	color: lightblue;
+	font-weight: bold;
+	text-shadow: 2px 2px 3px gray;
+}
+#ex{
+	text-shadow: 2px 2px 3px gray;
+	color: white;
+}
+body{
+	background-color:#212F3C;
+}
+#one{
+	border-style: solid;
+	border-color: #78281F;
+	float: right;
+}
+footer{
+	color: white;
+}
